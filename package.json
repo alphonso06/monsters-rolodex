@@ -13,7 +13,7 @@
     "react-scripts": "3.3.0"
   },
   "scripts": {
-    "start": "yarn install -g server && serve -s build",
+    "start": "yarn install -g serve && serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
